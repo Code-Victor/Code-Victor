@@ -1,8 +1,8 @@
-[![Victor's GitHub Banner](./assets/header.png)](https://code-victor.github.io)
+[![Victor's GitHub Banner](./assets/hero.png)](https://code-victor.github.io)
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&color=1CA2F1)](https://twitter.com/TheFireAndCode)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/code-victor/)
 [![Gmail](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail)](mailto:oluwaborihamzat@gmail.com)
-
 
 Hey there 👋
 
@@ -11,8 +11,11 @@ I’m Victor,a self-taught frontend developer based in Nigeria and I make the wo
 Want to know more about me? [Check out my portfolio.](https://code-victor.github.io)
 
 ## 📝 Latest Blog Posts
+
 - [Layout Animations with Framer motion](https://medium.com/p/25807bfc3750)
+
 ## &#x1f4c8; GitHub Stats
+
 <br>
 
 <a href="https://github.com/code-victor">
