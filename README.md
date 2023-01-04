@@ -18,13 +18,14 @@ Want to know more about me? [Check out my portfolio.](https://code-victor.github
 
 <br>
 
+<div style="display:flex;flex-wrap:wrap;gap:20px;">
 <a href="https://github.com/code-victor">
-  <img align="center" style="margin:0.5rem;display:inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-victor&hide=html&theme=nightowl&layout=compact" />
+  <img align="center" style="margin:0.5rem;display:inline" src="https://github-readme-stats.vercel.app/api?username=code-victor&show_icons=true&line_height=27&count_private=true&theme=nightowl" alt="Victor's github Stats" />
 </a>
-
 <a href="https://github.com/code-victor">
-  <img align="center" style="margin:0.5rem;display:inline" src="https://github-readme-stats.vercel.app/api?username=code-victor&show_icons=true&line_height=27&count_private=true&theme=nightowl" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem;display:inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-victor&hide=html&theme=nightowl&layout=compact" alt="Victor's github Stats" />
 </a>
+</div>
 
 ## 💼 Skills
 
