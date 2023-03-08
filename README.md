@@ -8,10 +8,12 @@ Hey there 👋
 
 I’m Victor,a self-taught frontend developer based in Nigeria and I make the world a better place by building quality,consistent and fully accessible user interfaces with react.
 
-Want to know more about me? [Check out my portfolio.](https://code-victor.github.io)
+Want to know more about me? [Check out my portfolio.](https://code-victor.vercel.app)
 
 ## 📝 Latest Blog Posts
 
+- [I write better Git commit messages than you do](https://medium.com/@oluwaborihamzat/i-write-better-git-commit-messages-than-you-do-ff38cf2b2811)
+- [Think Before you Code](https://medium.com/@oluwaborihamzat/think-before-you-code-4cc89eca2ea9)
 - [Layout Animations with Framer motion](https://medium.com/p/25807bfc3750)
 
 ## &#x1f4c8; GitHub Stats
