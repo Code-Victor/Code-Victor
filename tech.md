@@ -6,7 +6,6 @@
 
 A free and open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
 
-> [!TIP]
 > For more information, you can follow this links:
 >
 > 1. [Documentation](https://docs.expo.dev/)
