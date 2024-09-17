@@ -6,10 +6,11 @@
 
 A free and open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
 
-#### Links
-
-- [Documentation](https://docs.expo.dev/)
-- [Talks](https://docs.expo.dev/additional-resources/#talks)
+> [!TIP]
+> For more information, you can follow this links:
+>
+> 1. [Documentation](https://docs.expo.dev/)
+> 2. [Talks](https://docs.expo.dev/additional-resources/#talks)
 
 ### [Tamagui](https://tamagui.dev/)💅🏾
 
