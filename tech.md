@@ -124,7 +124,7 @@ for more information, you can follow this links:
 ### MMKV
 
 A [blazingly](https://github.com/mrousavy/StorageBenchmark) fast™️⚡(~30x faster than AsyncStorage), small, and secure key-value storage library for React Native.
-> [!NOTE]
+> [!TIP]
 > Integration with other libraries
 >
 > - [Using MMKV with zustand persist-middleware](https://github.com/mrousavy/react-native-mmkv/blob/main/docs/WRAPPER_ZUSTAND_PERSIST_MIDDLEWARE.md)
