@@ -51,7 +51,7 @@ For more information, you can follow this links:
 
 ### Burnt
 
-Cross-platform toasts for React Native, powered by native elements.
+Cross-platform toasts for React Native, powered by native elements. I love the native feel it gives but I'm currently eyeing this new library:[Sonner-native](https://github.com/gunnartorfis/sonner-native) based on the awesome React toast library [sonner](https://sonner.emilkowal.ski/)
 
 For more information, you can follow this links:
 
@@ -111,7 +111,7 @@ for more information, you can follow this links:
 
 ### Zustand
 
-A small, fast and scaleable bearbones state-management solution.
+A small, fast and scaleable bearbones state-management solution. It's a simple and straightforward library that allows you to manage your app's state with ease. It doesn't require any boilerplate code, and it's easy to integrate with other libraries like React Query and MMKV.
 
 for more information, you can follow this links:
 
@@ -207,6 +207,7 @@ export function MyComponent() {
   return <Icon name="AddIcon" size={24} />;
 }
 ```
+
 6. Best part? You get type safety for free! 🎉
 <!-- image -->
 ![typesafe of icon component](
