@@ -1,5 +1,7 @@
 # Technologies I use
 
+This is a list of technologies I use in my projects. I have included links to their documentation, talks, and tutorials to help you get started with them.
+
 ## React Native
 
 ### Expo ⚛️
